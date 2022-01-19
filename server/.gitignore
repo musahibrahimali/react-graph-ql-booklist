@@ -1,0 +1,31 @@
+# IDE
+.vscode
+.vscode-test
+.vscode-test-workspace
+.vscode-test-folder
+.vscode-test-file
+.vscode-launch.json
+.vscode-tasks.json
+.vscode-launch.json
+
+.vs 
+.idea
+/idea
+
+# node modules
+node_modules/
+
+
+# environment
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# yarn error log
+yarn-error.log
+
+# all error log
+*.log
+
